@@ -4,3 +4,5 @@ target/
 .settings/
 .idea/
 *.log
+
+Practice project: Selenium + TestNG + Maven + POM
